@@ -35,3 +35,12 @@ button{
     background-color: black;
     color: white;
 }
+
+@media (max-width: 425px){
+    .container{
+ padding: 10px;
+    }
+    .main{
+        padding: 25px;
+    }
+}
